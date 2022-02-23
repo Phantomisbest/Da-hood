@@ -11,15 +11,6 @@ Anal.Name = "Anal"
 Anal.Parent = game.CoreGui
 Anal.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
-Cock.Name = "Cock"
-Cock.Parent = Anal
-Cock.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
-Cock.BorderSizePixel = 0
-Cock.Position = UDim2.new(0.235115424, 0, 0.271229386, 0)
-Cock.Size = UDim2.new(0.529769123, 0, 0.456273764, 0)
-
-
-
 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Phantomisbest/Da-hood/main/silentAim"))()
 
