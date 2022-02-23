@@ -1,0 +1,6 @@
+--This script was made by SkidSaalty on yt
+_G.Fov = 12
+_G.Sides = 20  
+_G.ShowFov = false
+_G.HitChance = 85
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Phantomisbest/Da-hood/main/silentAim"))()
